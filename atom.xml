@@ -4,9 +4,9 @@
   <subtitle>一个存放笔记的小盒子。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://idon.me/"/>
+  <link href="http://aiit.site/"/>
   <updated>2017-01-31T14:24:25.493Z</updated>
-  <id>http://idon.me/</id>
+  <id>http://aiit.site/</id>
   
   <author>
     <name>idon</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hexo搭建博客折腾小记</title>
-    <link href="http://idon.me/2017/01/30/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE%E5%B0%8F%E8%AE%B0/"/>
-    <id>http://idon.me/2017/01/30/Hexo搭建博客折腾小记/</id>
+    <link href="http://aiit.site/2017/01/30/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE%E5%B0%8F%E8%AE%B0/"/>
+    <id>http://aiit.site/2017/01/30/Hexo搭建博客折腾小记/</id>
     <published>2017-01-30T14:58:40.000Z</published>
     <updated>2017-01-31T14:24:25.493Z</updated>
     
@@ -48,17 +48,17 @@
     
     </summary>
     
-      <category term="网站建设" scheme="http://idon.me/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://aiit.site/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="hexo" scheme="http://idon.me/tags/hexo/"/>
+      <category term="hexo" scheme="http://aiit.site/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>一个HEXO站点</title>
-    <link href="http://idon.me/2017/01/29/%E4%B8%80%E4%B8%AAHEXO%E7%AB%99%E7%82%B9/"/>
-    <id>http://idon.me/2017/01/29/一个HEXO站点/</id>
+    <link href="http://aiit.site/2017/01/29/%E4%B8%80%E4%B8%AAHEXO%E7%AB%99%E7%82%B9/"/>
+    <id>http://aiit.site/2017/01/29/一个HEXO站点/</id>
     <published>2017-01-29T14:04:05.000Z</published>
     <updated>2017-01-31T14:23:14.267Z</updated>
     
@@ -72,12 +72,12 @@
     
     </summary>
     
-      <category term="网站建设" scheme="http://idon.me/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://aiit.site/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="hexo" scheme="http://idon.me/tags/hexo/"/>
+      <category term="hexo" scheme="http://aiit.site/tags/hexo/"/>
     
-      <category term="blog" scheme="http://idon.me/tags/blog/"/>
+      <category term="blog" scheme="http://aiit.site/tags/blog/"/>
     
   </entry>
   
