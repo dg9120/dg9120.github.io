@@ -89,7 +89,7 @@
 <meta name="description" content="你好，这是一个基于HEXO的新站点。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="一个HEXO站点">
-<meta property="og:url" content="http://aiit.site/post/网站建设/一个HEXO站点">
+<meta property="og:url" content="http://aiit.site/网站建设/一个HEXO站点">
 <meta property="og:site_name" content="iDon's Blog">
 <meta property="og:description" content="你好，这是一个基于HEXO的新站点。">
 <meta property="og:updated_time" content="2017-01-31T14:23:14.267Z">
@@ -123,7 +123,7 @@
 
 
 
-  <link rel="canonical" href="http://aiit.site/post/网站建设/一个HEXO站点"/>
+  <link rel="canonical" href="http://aiit.site/网站建设/一个HEXO站点"/>
 
 
 
@@ -262,7 +262,7 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-  <link itemprop="mainEntityOfPage" href="http://aiit.site/post/网站建设/一个HEXO站点">
+  <link itemprop="mainEntityOfPage" href="http://aiit.site/网站建设/一个HEXO站点">
 
   <span style="display:none" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <meta itemprop="name" content="idon">
@@ -342,8 +342,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/post/网站建设/一个HEXO站点#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count ds-thread-count" data-thread-key="post/网站建设/一个HEXO站点" itemprop="commentCount"></span>
+                <a href="/网站建设/一个HEXO站点#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="网站建设/一个HEXO站点" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -410,7 +410,7 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/post/网站建设/Hexo搭建博客折腾小记" rel="prev" title="Hexo搭建博客折腾小记">
+              <a href="/网站建设/Hexo搭建博客折腾小记" rel="prev" title="Hexo搭建博客折腾小记">
                 Hexo搭建博客折腾小记 <i class="fa fa-chevron-right"></i>
               </a>
             
@@ -438,8 +438,8 @@
           
   <div class="comments" id="comments">
     
-      <div class="ds-thread" data-thread-key="post/网站建设/一个HEXO站点"
-           data-title="一个HEXO站点" data-url="http://aiit.site/post/网站建设/一个HEXO站点">
+      <div class="ds-thread" data-thread-key="网站建设/一个HEXO站点"
+           data-title="一个HEXO站点" data-url="http://aiit.site/网站建设/一个HEXO站点">
       </div>
     
   </div>
