@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aiit.site/"/>
-  <updated>2017-01-31T14:24:25.493Z</updated>
+  <updated>2017-02-01T12:37:08.567Z</updated>
   <id>http://aiit.site/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Hexo搭建博客折腾小记</title>
-    <link href="http://aiit.site/post/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE%E5%B0%8F%E8%AE%B0/"/>
-    <id>http://aiit.site/post/网站建设/Hexo搭建博客折腾小记/</id>
+    <link href="http://aiit.site/website/hexo-zhe-teng/"/>
+    <id>http://aiit.site/website/hexo-zhe-teng/</id>
     <published>2017-01-30T14:58:40.000Z</published>
-    <updated>2017-01-31T14:24:25.493Z</updated>
+    <updated>2017-02-01T12:37:08.567Z</updated>
     
     <content type="html"><![CDATA[<p>放假这几天，忙完没事在网上闲逛，发现了一个基于HEXO+Github搭建的博客，简洁轻便，便尝试着折腾了一把。过程还蛮顺利的，主要是站在大神们的教程上，也没费多少功夫。</p>
 <p>总体的步骤分为以下几个：1、配置环境，安装Git、Node。2、申请Github，配置SSH。3、设置主题，美化调试。4、本地上传Github，绑定域名。</p>
@@ -48,7 +48,7 @@
     
     </summary>
     
-      <category term="网站建设" scheme="http://aiit.site/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="website" scheme="http://aiit.site/categories/website/"/>
     
     
       <category term="hexo" scheme="http://aiit.site/tags/hexo/"/>
@@ -57,10 +57,10 @@
   
   <entry>
     <title>一个HEXO站点</title>
-    <link href="http://aiit.site/post/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/%E4%B8%80%E4%B8%AAHEXO%E7%AB%99%E7%82%B9/"/>
-    <id>http://aiit.site/post/网站建设/一个HEXO站点/</id>
+    <link href="http://aiit.site/website/one-hexo-blog/"/>
+    <id>http://aiit.site/website/one-hexo-blog/</id>
     <published>2017-01-29T14:04:05.000Z</published>
-    <updated>2017-01-31T14:23:14.267Z</updated>
+    <updated>2017-02-01T12:36:59.061Z</updated>
     
     <content type="html"><![CDATA[<p>你好，这是一个基于HEXO的新站点。</p>
 ]]></content>
@@ -72,7 +72,7 @@
     
     </summary>
     
-      <category term="网站建设" scheme="http://aiit.site/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="website" scheme="http://aiit.site/categories/website/"/>
     
     
       <category term="hexo" scheme="http://aiit.site/tags/hexo/"/>
