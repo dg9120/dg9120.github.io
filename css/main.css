@@ -1686,7 +1686,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #93ffa3;
+  background: #877eff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1860,7 +1860,7 @@ pre .javascript .function {
 .theme-next #ds-thread #ds-reset .ds-post-toolbar {
   box-sizing: border-box;
   border: 1px solid #c7d4e1;
-  background: #f6f8fa;
+  background: #fff;
 }
 .theme-next #ds-thread #ds-reset .ds-post-options {
   height: 40px;
@@ -1895,7 +1895,7 @@ pre .javascript .function {
 }
 .theme-next #ds-thread #ds-reset li.ds-tab a.ds-current {
   border: none;
-  background: #f6f8fa;
+  background: #fff;
   color: #60676d;
 }
 .theme-next #ds-thread #ds-reset li.ds-tab a.ds-current:hover {
