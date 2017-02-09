@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aiit.site/about/index.html</loc>
+    
+    <lastmod>2017-02-09T13:54:44.220Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aiit.site/website/hexo-zhe-teng/</loc>
     
     <lastmod>2017-02-01T12:37:08.567Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://aiit.site/categories/index.html</loc>
     
     <lastmod>2017-01-31T13:55:19.519Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aiit.site/about/index.html</loc>
-    
-    <lastmod>2017-01-30T13:21:17.348Z</lastmod>
     
   </url>
   
