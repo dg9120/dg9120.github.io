@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aiit.site/"/>
-  <updated>2017-02-01T12:37:08.567Z</updated>
+  <updated>2017-02-11T14:07:38.856Z</updated>
   <id>http://aiit.site/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>多年前的作品</title>
+    <link href="http://aiit.site/mylife/my-shou-hui/"/>
+    <id>http://aiit.site/mylife/my-shou-hui/</id>
+    <published>2017-02-11T13:58:40.000Z</published>
+    <updated>2017-02-11T14:07:38.856Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://img208.poco.cn/mypoco/myphoto/20110701/14/42604261201107011437083310952279716_000.jpg" alt="柯南"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://img208.poco.cn/mypoco/myphoto/20110701/14/42604261201107011437083310952279716_000.jpg&quot; alt=&quot;柯南&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="mylife" scheme="http://aiit.site/categories/mylife/"/>
+    
+    
+      <category term="PS" scheme="http://aiit.site/tags/PS/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo搭建博客折腾小记</title>
