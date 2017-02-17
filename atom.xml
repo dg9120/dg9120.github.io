@@ -4,9 +4,9 @@
   <subtitle>一个存放笔记的小盒子。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://aiit.site/"/>
+  <link href="http://idon.me/"/>
   <updated>2017-02-11T15:01:03.271Z</updated>
-  <id>http://aiit.site/</id>
+  <id>http://idon.me/</id>
   
   <author>
     <name>iDon</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>多年前的作品</title>
-    <link href="http://aiit.site/mylife/my-shou-hui/"/>
-    <id>http://aiit.site/mylife/my-shou-hui/</id>
+    <link href="http://idon.me/mylife/my-shou-hui/"/>
+    <id>http://idon.me/mylife/my-shou-hui/</id>
     <published>2017-02-11T13:58:40.000Z</published>
     <updated>2017-02-11T15:01:03.271Z</updated>
     
@@ -32,17 +32,17 @@
     
     </summary>
     
-      <category term="mylife" scheme="http://aiit.site/categories/mylife/"/>
+      <category term="mylife" scheme="http://idon.me/categories/mylife/"/>
     
     
-      <category term="PS" scheme="http://aiit.site/tags/PS/"/>
+      <category term="PS" scheme="http://idon.me/tags/PS/"/>
     
   </entry>
   
   <entry>
     <title>Hexo搭建博客折腾小记</title>
-    <link href="http://aiit.site/website/hexo-zhe-teng/"/>
-    <id>http://aiit.site/website/hexo-zhe-teng/</id>
+    <link href="http://idon.me/website/hexo-zhe-teng/"/>
+    <id>http://idon.me/website/hexo-zhe-teng/</id>
     <published>2017-01-30T14:58:40.000Z</published>
     <updated>2017-02-01T12:37:08.567Z</updated>
     
@@ -72,17 +72,17 @@
     
     </summary>
     
-      <category term="website" scheme="http://aiit.site/categories/website/"/>
+      <category term="website" scheme="http://idon.me/categories/website/"/>
     
     
-      <category term="hexo" scheme="http://aiit.site/tags/hexo/"/>
+      <category term="hexo" scheme="http://idon.me/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>一个HEXO站点</title>
-    <link href="http://aiit.site/website/one-hexo-blog/"/>
-    <id>http://aiit.site/website/one-hexo-blog/</id>
+    <link href="http://idon.me/website/one-hexo-blog/"/>
+    <id>http://idon.me/website/one-hexo-blog/</id>
     <published>2017-01-29T14:04:05.000Z</published>
     <updated>2017-02-01T12:36:59.061Z</updated>
     
@@ -96,12 +96,12 @@
     
     </summary>
     
-      <category term="website" scheme="http://aiit.site/categories/website/"/>
+      <category term="website" scheme="http://idon.me/categories/website/"/>
     
     
-      <category term="hexo" scheme="http://aiit.site/tags/hexo/"/>
+      <category term="hexo" scheme="http://idon.me/tags/hexo/"/>
     
-      <category term="blog" scheme="http://aiit.site/tags/blog/"/>
+      <category term="blog" scheme="http://idon.me/tags/blog/"/>
     
   </entry>
   
