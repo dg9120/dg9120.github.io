@@ -1,13 +1,81 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>我为卿狂</title>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>生活在别处</title>
+    <link rel="stylesheet" type="text/css" href="css.css"/>
 </head>
+
 <body>
-<center style="margin-top:200px;display:block;"> 欢迎访问！请点击以下地址进入。
-</center>
-<center style="margin-top:50px;display:block;font-size:30px;font-weight:bold;font-family:Arial;color:blue;text-decoration:none">
-<a style="font-size:30px;font-weight:bold;font-family:Arial;color:blue;text-decoration:none" href="http://wwqk.net/">我为卿狂</a></center>
+<div class="vi">
+    <div class="sidebar">
+        <div class="header">
+            <h1><span>li</span>fe <span>i</span>s <span>e</span>lsewhere</h1>
+            <div class="quote">
+                <p class="quote-text animate-init">Life is elsewhere ！语出法国诗人兰波的诗句名言“生活在别处”，以此为题。法国才华横溢的象征主义诗人兰波说：“对于一个充满憧憬的年轻人而言,周围是没有生活的,真正的生活总是在别处。”在远方，在别处，那里还有你的梦想，你的生活，以及不曾被拥有的美妙。拼搏吧，少年！</p>
+                <p class="quote-author animate-init"></p>
+            </div>
+        </div>
+        <div class="menu">
+        	<a href="http://wwqk.net" class="animate-init">Blog</a>
+            <a href="http://jiaruan.lofter.com/" class="animate-init">Soft</a>
+			<a href="https://soft.wwqk.net" class="animate-init">Extension</a>
+            <a href="mailto:mail@qbjr.net" class="animate-init">Email</a>
+            <a href="http://qbjr.net/" class="animate-init">Secret</a>
+            <a href="https://mi.aliyun.com/shop/19132" class="animate-init">Yumi</a>
+        </div>
+        <div class="location">
+            <i class="location-icon"></i>
+            <span class="location-text animate-init">LIIE - <a href="http://www.miibeian.gov.cn" target="_blank">鲁ICP备15006136号-1</a> ●<a target="_blank" href="http://www.beian.gov.cn/">鲁公网安备37012402000133号</a></span>
+        </div>
+        <div class="relocating">
+            Navigating to: <span class="relocate-location"></span>...
+        </div>
+    </div>
+
+    <div class="content">
+        <span class="close">close</span>
+    </div>
+</div>
+<script type="text/javascript" src="index.js"></script>
+<script>
+    <!-- $.post("http://api.hitokoto.cn/",null,function(e){ -->
+        <!-- $('.quote-text').html(e.hitokoto); -->
+        <!-- $('.quote-author').html("—— <strong>"+e.from+"</strong>"); -->
+    <!-- },'JSON'); -->
+    $(document).ready(function () {
+        var delay = 1;
+        var DELAY_STEP = 200;
+        var animationOptions = { opacity: 1, top: 0};
+
+        $('h1').animate(animationOptions).promise()
+                .pipe(animateMain)
+                .pipe(animateLocationIcon);
+
+        function animateMain() {
+            var dfd = $.Deferred();
+            var els = $('.animate-init');
+            var size = els.size();
+
+            els.each(function (index, el) {
+                delay++;
+                $(el).delay(index * DELAY_STEP)
+                        .animate(animationOptions);
+                (size - 1 === index) && dfd.resolve();
+            });
+            return dfd.promise();
+        }
+
+        function animateLocationIcon() {
+            $('.location-icon').delay(delay * DELAY_STEP).animate({
+                opacity: 1,
+                top: 0
+            }).promise;
+        }
+    });
+</script>
 </body>
 </html>
+
